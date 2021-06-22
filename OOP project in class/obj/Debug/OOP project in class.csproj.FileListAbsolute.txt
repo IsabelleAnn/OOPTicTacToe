@@ -1,0 +1,21 @@
+D:\Net Fullstack\OOP project in class\OOP project in class\obj\Debug\OOP project in class.csprojResolveAssemblyReference.cache
+D:\Net Fullstack\OOP project in class\OOP project in class\bin\OOP project in class.dll.config
+D:\Net Fullstack\OOP project in class\OOP project in class\bin\OOP project in class.dll
+D:\Net Fullstack\OOP project in class\OOP project in class\bin\OOP project in class.pdb
+D:\Net Fullstack\OOP project in class\OOP project in class\obj\Debug\OOP project in class.csproj.CoreCompileInputs.cache
+D:\Net Fullstack\OOP project in class\OOP project in class\obj\Debug\OOP project in class.dll
+D:\Net Fullstack\OOP project in class\OOP project in class\obj\Debug\OOP project in class.pdb
+D:\Net Fullstack\OOP Project\OOP project in class\bin\OOP project in class.dll.config
+D:\Net Fullstack\OOP Project\OOP project in class\bin\OOP project in class.dll
+D:\Net Fullstack\OOP Project\OOP project in class\bin\OOP project in class.pdb
+D:\Net Fullstack\OOP Project\OOP project in class\obj\Debug\OOP project in class.csprojResolveAssemblyReference.cache
+D:\Net Fullstack\OOP Project\OOP project in class\obj\Debug\OOP project in class.csproj.CoreCompileInputs.cache
+D:\Net Fullstack\OOP Project\OOP project in class\obj\Debug\OOP project in class.dll
+D:\Net Fullstack\OOP Project\OOP project in class\obj\Debug\OOP project in class.pdb
+D:\Net Fullstack\Isabelle Dikovsky - OOP Project TicTacToe\OOP project in class\bin\OOP project in class.dll.config
+D:\Net Fullstack\Isabelle Dikovsky - OOP Project TicTacToe\OOP project in class\bin\OOP project in class.dll
+D:\Net Fullstack\Isabelle Dikovsky - OOP Project TicTacToe\OOP project in class\bin\OOP project in class.pdb
+D:\Net Fullstack\Isabelle Dikovsky - OOP Project TicTacToe\OOP project in class\obj\Debug\OOP project in class.csprojResolveAssemblyReference.cache
+D:\Net Fullstack\Isabelle Dikovsky - OOP Project TicTacToe\OOP project in class\obj\Debug\OOP project in class.csproj.CoreCompileInputs.cache
+D:\Net Fullstack\Isabelle Dikovsky - OOP Project TicTacToe\OOP project in class\obj\Debug\OOP project in class.dll
+D:\Net Fullstack\Isabelle Dikovsky - OOP Project TicTacToe\OOP project in class\obj\Debug\OOP project in class.pdb
